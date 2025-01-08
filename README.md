@@ -10,8 +10,8 @@ Before you run the executable, ensure the following:
 - You have the necessary permissions to run .exe files (you might need to run the executable as an administrator).
 
 ## Installation
-1. Download the zip file: [final_assessment.exe](path/to/final_assessment.exe).
-2. If the executable is in a compressed file (e.g., .zip), extract it to a desired location on your computer.
+1. Download the zip file: [final_assessment.zip](final_assessment.zip).
+2. Exact the zip file.
 
 ## Usage
 1. Locate the downloaded or extracted `final_assessment.exe` file on your computer.
