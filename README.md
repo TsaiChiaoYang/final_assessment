@@ -11,10 +11,10 @@ Before you run the executable, ensure the following:
 
 ## Installation
 1. Download the zip file: [final_assessment.zip](final_assessment.zip).
-2. Exact the zip file.
+2. Extract the zip file.
 
 ## Usage
-1. Locate the downloaded or extracted `final_assessment.exe` file on your computer.
+1. Locate the downloaded or extracted `final_assessment.exe` file (it's in the 'dist' directory by default) on your computer.
 2. Double-click the `final_assessment.exe` file to run the program.
 3. Follow the on-screen instructions provided by the program.
 
